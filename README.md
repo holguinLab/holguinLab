@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm @Snake-PyWeb
 
-![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ## 🧑‍💻 About Me:
 - 🌱 I’m currently learning **Django, Python, HTML, CSS, MongoDB**.
