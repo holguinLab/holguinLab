@@ -1,11 +1,7 @@
 # 👋 Hi there! I'm @Snake-PyWeb
 
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 <div align="center"> 
 
